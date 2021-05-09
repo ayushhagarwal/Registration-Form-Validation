@@ -4,6 +4,11 @@ import mysql.connector
 
 app=Flask(__name__)
 
+
+
+
+cursor=conn.cursor()
+
 @app.route("/")
 def home():
     return render_template("index.html")
