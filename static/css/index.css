@@ -1,0 +1,19 @@
+body {
+    background-color: #334f7a;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+.navbar{
+    background-color: #1f2836;
+}
+.navbar-brand{
+    color:#fff
+}
+.card{
+    height: 50vh;
+    background-color: #8daad9;
+}
+.container{
+    padding-top: 3rem;
+    margin-top: 200px;
+}
