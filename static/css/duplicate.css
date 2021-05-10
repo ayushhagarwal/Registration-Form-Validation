@@ -1,0 +1,19 @@
+body {
+    background-color: #334f7a;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+.navbar{
+    background-color: #1f2836;
+}
+.navbar-brand{
+    color:#fff
+}
+.submit{
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+.back{
+    margin-left:720px
+}
