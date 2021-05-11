@@ -4,7 +4,7 @@ import mysql.connector
 
 app=Flask(__name__)
 
-
+conn=mysql.connector.connect(host="127.0.0.1",user="root",password="",database="",auth_plugin='mysql_native_password')
 
 cursor=conn.cursor()
 
